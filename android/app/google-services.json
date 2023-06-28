@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003270828853",
+    "project_id": "screen-mirroring-app-bbc9b",
+    "storage_bucket": "screen-mirroring-app-bbc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003270828853:android:58cba030f20c5f1e13927c",
+        "android_client_info": {
+          "package_name": "com.example.screen_mirroring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003270828853-r7hr94cb7iqnog5thb1oiu4v0trn387m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU_40jMWo3pR3NZwAjvpSOhzb8Nr3yz8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003270828853-r7hr94cb7iqnog5thb1oiu4v0trn387m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
